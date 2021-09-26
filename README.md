@@ -1,2 +1,1 @@
-# WORD-59-problem-A
-I SOLVED WORD PROBLEM IN CODEFORCES - ACCEPT 
+Here the most problem I was solved with cpp language in codeforces or any compititve sites for programmres 
